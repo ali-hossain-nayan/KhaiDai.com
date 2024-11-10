@@ -9,12 +9,8 @@ import orderRouter from './routes/orderRoute.js'
 // db->model->controller->routes
 // app config
 const app = express()
-const port = 4000
-app.use(cors({
-    origin: ["https://deploy-mern-1whq.vercel.app"],
-    methods: ["POST", "GET"],
-    credentials: true
-}))
+const port = process.env.PORT || 4000
+
 
 // middleware
 app.use(express.json())//connectivity with json form mate fornt-backend
