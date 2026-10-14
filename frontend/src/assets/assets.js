@@ -120,7 +120,7 @@ export const food_list = [
         image: food_1,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
 
     },
     {
@@ -129,7 +129,7 @@ export const food_list = [
         image: food_2,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '3',
@@ -137,7 +137,7 @@ export const food_list = [
         image: food_3,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '4',
@@ -145,7 +145,7 @@ export const food_list = [
         image: food_4,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '5',
@@ -153,7 +153,7 @@ export const food_list = [
         image: food_5,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'Rolls',
-        price:30
+        price: 30
     },
     {
         _id: '6',
@@ -161,7 +161,7 @@ export const food_list = [
         image: food_6,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'Rolls',
-        price:30
+        price: 30
     },
     {
         _id: '7',
@@ -169,47 +169,47 @@ export const food_list = [
         image: food_7,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'Rolls',
-        price:30
+        price: 30
     },
     {
         _id: '8',
         name: 'chicken rolls',
         image: food_8,
         description: 'Food provides essential nutrients for overall wll-being',
-        category: 'salad',
-        price:30
+        category: 'Rolls',
+        price: 30
     },
     {
         _id: '9',
         name: 'panir',
         image: food_9,
         description: 'Food provides essential nutrients for overall wll-being',
-        category: 'sweet',
-        price:30
+        category: 'Deserts',
+        price: 30
     },
     {
         _id: '10',
         name: 'sweet',
         image: food_10,
         description: 'Food provides essential nutrients for overall wll-being',
-        category: 'sweet',
-        price:30
+        category: 'Deserts',
+        price: 30
     },
     {
         _id: '11',
         name: 'stobery juice',
         image: food_11,
         description: 'Food provides essential nutrients for overall wll-being',
-        category: 'Rolls',
-        price:30
+        category: 'Deserts',
+        price: 30
     },
     {
         _id: '12',
         name: 'malai',
         image: food_12,
         description: 'Food provides essential nutrients for overall wll-being',
-        category: 'salad',
-        price:30
+        category: 'Deserts',
+        price: 30
     },
     {
         _id: '13',
@@ -217,7 +217,7 @@ export const food_list = [
         image: food_13,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'Sandwich',
-        price:30
+        price: 30
     },
     {
         _id: '14',
@@ -225,7 +225,7 @@ export const food_list = [
         image: food_14,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '15',
@@ -233,7 +233,7 @@ export const food_list = [
         image: food_15,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'Sandwich',
-        price:30
+        price: 30
     },
     {
         _id: '16',
@@ -241,7 +241,7 @@ export const food_list = [
         image: food_16,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '17',
@@ -249,7 +249,7 @@ export const food_list = [
         image: food_17,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '18',
@@ -257,7 +257,7 @@ export const food_list = [
         image: food_18,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '19',
@@ -265,7 +265,7 @@ export const food_list = [
         image: food_19,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '20',
@@ -273,7 +273,7 @@ export const food_list = [
         image: food_20,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '21',
@@ -281,7 +281,7 @@ export const food_list = [
         image: food_21,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '22',
@@ -289,7 +289,7 @@ export const food_list = [
         image: food_22,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '23',
@@ -297,7 +297,7 @@ export const food_list = [
         image: food_23,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '24',
@@ -305,7 +305,7 @@ export const food_list = [
         image: food_24,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '25',
@@ -313,7 +313,7 @@ export const food_list = [
         image: food_25,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '26',
@@ -321,7 +321,7 @@ export const food_list = [
         image: food_26,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '27',
@@ -329,7 +329,7 @@ export const food_list = [
         image: food_27,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '28',
@@ -337,7 +337,7 @@ export const food_list = [
         image: food_28,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '29',
@@ -345,7 +345,7 @@ export const food_list = [
         image: food_29,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '30',
@@ -353,7 +353,7 @@ export const food_list = [
         image: food_30,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '31',
@@ -361,7 +361,7 @@ export const food_list = [
         image: food_31,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
     {
         _id: '32',
@@ -369,7 +369,7 @@ export const food_list = [
         image: food_32,
         description: 'Food provides essential nutrients for overall wll-being',
         category: 'salad',
-        price:30
+        price: 30
     },
 ]
 

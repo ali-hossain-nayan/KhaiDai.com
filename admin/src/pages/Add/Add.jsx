@@ -59,17 +59,17 @@ const Add = ({baseURL}) => {
         </div>
 
         <div className="add-product-name flex-col" >
-          <p>Product name</p>
+          <p>Product Description</p>
           <input onChange={onChangeHandler} value={data.name} type="text" name='name' placeholder='type here' />
         </div>
 
-        <div className="add-category-description flex-col">
+        {/* <div className="add-category-description flex-col">
           <textarea onChange={onChangeHandler} value={data.description} name="description" rows='6' placeholder='write content' required></textarea>
-        </div>
+        </div> */}
 
 
         <div className="add-category-price">
-          <div className="add-category flex-col">
+          {/* <div className="add-category flex-col">
             <p>Product category</p>
             <select name="category" onChange={onChangeHandler}  >
               <option value="Salad">Salad</option>
@@ -81,9 +81,9 @@ const Add = ({baseURL}) => {
               <option value="Pasta">Pasta</option>
               <option value="Noodles">Noodles</option>
             </select>
-          </div>
+          </div> */}
           <div className="add-price flex-col">
-            <p>Product price</p>
+            <p>Sell price</p>
             <input onChange={onChangeHandler} value={data.price} type="Number" name='price' placeholder='$20' />
           </div>
         </div>
